@@ -1,4 +1,0 @@
-FROM /home/rodrigo/PruebaParcial
-MAINTAINER DevOps UTEC - Rodrigo Castro "Rodrigo.Castro.F@estudiantes.utec.edu.uy"
-
-
